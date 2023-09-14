@@ -1,7 +1,7 @@
 
 object HelloWorld {
     def main(args: Array[String]): Unit = {
-        println("Hello, labbhandledaren!") 
+        println("Hello, labbhandledaren! testet1") 
     }
 }
 
